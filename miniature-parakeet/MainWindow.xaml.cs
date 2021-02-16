@@ -24,5 +24,11 @@ namespace miniature_parakeet
         {
             InitializeComponent();
         }
+
+        public void PopulateDemoPlanner()
+        {            
+
+
+        }
     }
 }
